@@ -1,6 +1,8 @@
 # RStudio-Customizations
 
-This is something I did for fun, and figured other people might want to have more control over their RStudio experience.
+This is a fork of riley-roachs beautiful project which customizes the R-Studio appearance.
+
+The only difference to  riley-roachs project is the theme file for the Solarized Dark theme. Look at the Screenshot below to see how it looks. 
 
 Please create an issue if you have any problems!
 
